@@ -47,8 +47,8 @@
 
 | Projeto | O que é |
 |---|---|
-| [**STRIIS**](https://github.com/Paulo31209/github.com-Paulo31209-striis-) | Agente de cibersegurança com dashboard web: varreduras de sites, servidores e dependências (CVEs via OSV.dev) a partir de comandos em linguagem natural. Node.js + Express. |
-| [**Linux Weekly Maintenance**](https://github.com/Paulo31209/VMs-de-projetos-pessoais) | Script de manutenção semanal para Debian/Ubuntu agendado via cron: updates, limpeza de pacotes, cache e logs do journald, com log de auditoria. |
+| [**STRIIS**](https://github.com/Paulo31209/striis-security-agent) | Agente de cibersegurança com dashboard web: varreduras de sites, servidores e dependências (CVEs via OSV.dev) a partir de comandos em linguagem natural. Node.js + Express. |
+| [**Linux Weekly Maintenance**](https://github.com/Paulo31209/linux-weekly-maintenance) | Script de manutenção semanal para Debian/Ubuntu agendado via cron: updates, limpeza de pacotes, cache e logs do journald, com log de auditoria. |
 | [**DirectDrive SafeAI**](https://github.com/Paulo31209/DirectDrive-SafeAI) | Conceito de monitoramento preventivo de fadiga de motoristas com IA embarcada (Edge AI). Em fase de documentação. |
 
 ---
