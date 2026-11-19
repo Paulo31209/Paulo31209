@@ -47,6 +47,7 @@
 
 | Projeto | O que é |
 |---|---|
+| [**DevOps End-to-End Platform**](https://github.com/Paulo31209/devops-e2e-platform) | Projeto DevOps ponta a ponta: API em Go → Docker distroless → GitHub Actions com Trivy, Checkov e teste e2e em Kubernetes (kind) → GHCR → Helm + Argo CD → EKS via Terraform → Prometheus/Grafana. |
 | [**STRIIS**](https://github.com/Paulo31209/striis-security-agent) | Agente de cibersegurança com dashboard web: varreduras de sites, servidores e dependências (CVEs via OSV.dev) a partir de comandos em linguagem natural. Node.js + Express. |
 | [**Linux Weekly Maintenance**](https://github.com/Paulo31209/linux-weekly-maintenance) | Script de manutenção semanal para Debian/Ubuntu agendado via cron: updates, limpeza de pacotes, cache e logs do journald, com log de auditoria. |
 | [**DirectDrive SafeAI**](https://github.com/Paulo31209/DirectDrive-SafeAI) | Conceito de monitoramento preventivo de fadiga de motoristas com IA embarcada (Edge AI). Em fase de documentação. |
